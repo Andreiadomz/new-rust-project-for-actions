@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+[![Rustfmt](https://github.com/Andreiadomz/new-rust-project-for-actions/actions/workflows/rustfmt.yml/badge.svg)](https://github.com/Andreiadomz/new-rust-project-for-actions/actions/workflows/rustfmt.yml)
 
-## References
+# Example of Rust CI Pipeline
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Tests our Rust Code with Github Actions
